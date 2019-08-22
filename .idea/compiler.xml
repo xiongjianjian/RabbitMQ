@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="workQueue" />
+        <module name="Exchange" />
+        <module name="easyRabbitMQ_Queue" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easyRabbitMQ_Queue" target="9" />
+      <module name="Exchange" target="9" />
+      <module name="workQueue" target="9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

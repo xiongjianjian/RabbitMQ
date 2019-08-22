@@ -1,0 +1,4 @@
+# Project exclude paths
+/easyRabbitMQ_Queue/target/
+/Exchange/target/
+/workQueue/target/

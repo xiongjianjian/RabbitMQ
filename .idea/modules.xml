@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exchange/Exchange.iml" filepath="$PROJECT_DIR$/Exchange/Exchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRabbitMQ.iml" filepath="$PROJECT_DIR$/TestRabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyRabbitMQ_Queue/easyRabbitMQ_Queue.iml" filepath="$PROJECT_DIR$/easyRabbitMQ_Queue/easyRabbitMQ_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workQueue/workQueue.iml" filepath="$PROJECT_DIR$/workQueue/workQueue.iml" />
+    </modules>
+  </component>
+</project>
